@@ -1,16 +1,34 @@
-# MODELOS:
+# modelagem de dados:
+    A modelagem de dados é um dos processos mais importantes ao se trabalhar em um projeto de banco de dados.
+    Nele, os dados são levantados, tratados e estruturados para, assim, termos uma boa base para a construção de um banco de dados.
 
-    A modelagem de dados é um dos processos mais importantes ao se trabalhar
-    em um projeto de banco de dados. Nele, os dados são levantados, tratados
-    e estruturados para, assim, termos uma boa base para a construção de um banco de dados.
+    Além do modelo conceitual, utilizado para o entendimento dos requisitos do sistema, pois explora as estruturas e conceitos do negócio,
+    também podemos trabalhar com dois outros modelos: o lógico e o físico.
 
-    Além do modelo conceitual, utilizado para o entendimento dos requisitos do sistema,
-    pois explora as estruturas e conceitos do negócio, também podemos trabalhar com dois outros modelos: o lógico e o físico.
-
-    O modelo lógico é criado para realizar a descrição de como os dados serão armazenados no sistema. Ele explora os conceitos de domínio. Nesse modelo, descrevemos as entidades, os atributos,    	as chaves primárias e estrangeiras e os seus relacionamentos.
+    O modelo lógico é criado para realizar a descrição de como os dados serão armazenados no sistema. Ele explora os conceitos de domínio.
+    Nesse modelo, descrevemos as entidades, os atributos, as chaves primárias e estrangeiras e os seus relacionamentos.
 
     O modelo físico também é criado para descrever as tabelas, suas colunas e os relacionamentos.
     Diferente do modelo lógico, podemos utilizar uma linguagem padrão para realizar essa representação:
     a linguagem SQL, utilizada para trabalhar com banco de dados relacionais.
 
-# MINI MUNDO:
+# mini mundo:
+    Então mini mundo, podemos trazer uma definição de banco de dados aqui que, na verdade, o banco de dados representa
+    aspectos do mundo real, às vezes chamado de mini mundo, ou seja, ele é um recorte no mundo real.
+    Porque já que meu banco de dados vai representar algo da realidade, não tem como representar tudo, eu tenho que
+    escolher o que vai apresentar, fazer um recorte, e daí sim colocar no nosso banco.
+
+# MER (modelo entidade e relacionamento):
+    Esse modelo, é o modelo conceitual que é o primeiro passo que vamos dar para modelagem nos dados e ele vai ser usado
+    para descrever os objetos do mundo real, que podemos chamar de entidades as suas características que podemos chamar 
+    de atributos e como eles se relacionam, os seus relacionamentos, por isso que é o modelo entidade relacionamento, então
+    descrevemos ali os objetos e a forma que estão se relacionando.
+    Esse modelo é usado para representar de forma abstrata como os bancos de dados vão se comportar.
+
+# DER (diagrama entidade relacionamento):
+    Ele é a representação gráfica do modelo entidade relacionamento, muitas vezes no nosso dia a dia, ouviremos as pessoas misturando
+    esses dois conceitos (DER & MER) ou usando como sinônimos, já que para representarmos o nosso modelo, entidade relacionamento vamos
+    ter que usar ali alguma forma visual, por isso que o diagrama entidade relacionamento muitas vezes é usado como sinônimo.
+    E a grande vantagem é que ele facilita a comunicação entre todas as pessoas, desde os analistas, as pessoas que vão fazer as entrevistas
+    ali com usuários para entender como os bancos vão ser estruturados, até realmente os desenvolvedores, então todo mundo olha pra aquele
+    diagrama e de forma visual consegue entender como o banco vai se comportar, como os relacionamentos acontecerão.
