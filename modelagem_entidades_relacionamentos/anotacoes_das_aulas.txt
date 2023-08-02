@@ -12,3 +12,5 @@
     O modelo físico também é criado para descrever as tabelas, suas colunas e os relacionamentos.
     Diferente do modelo lógico, podemos utilizar uma linguagem padrão para realizar essa representação:
     a linguagem SQL, utilizada para trabalhar com banco de dados relacionais.
+
+# MINI MUNDO:
