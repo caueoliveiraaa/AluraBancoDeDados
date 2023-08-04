@@ -38,3 +38,7 @@
     Clientes de uma empresa podem ser tomado como uma entidade, carros que são vendidos em uma concessionária, em uma loja, podem ser tomados
     como uma entidade também, na verdade, o produto que alguma loja vende ou que alguma empresa fabrica pode ser tomado como uma entidade,
     departamento de uma empresa, como, por exemplo, o departamento de vendas, pode ser tomado como uma entidade também.
+
+# Entidade forte / fraca:
+    É aquela entidade que existe independentemente de outra entidade, já a entidade fraca depende da existência da outra.
+    
