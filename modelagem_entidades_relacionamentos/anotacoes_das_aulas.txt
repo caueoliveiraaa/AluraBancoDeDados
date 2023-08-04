@@ -1,4 +1,4 @@
-# modelagem de dados:
+# Modelagem de dados:
     A modelagem de dados é um dos processos mais importantes ao se trabalhar em um projeto de banco de dados.
     Nele, os dados são levantados, tratados e estruturados para, assim, termos uma boa base para a construção de um banco de dados.
 
@@ -12,7 +12,7 @@
     Diferente do modelo lógico, podemos utilizar uma linguagem padrão para realizar essa representação:
     a linguagem SQL, utilizada para trabalhar com banco de dados relacionais.
 
-# mini mundo:
+# Mini mundo:
     Então mini mundo, podemos trazer uma definição de banco de dados aqui que, na verdade, o banco de dados representa
     aspectos do mundo real, às vezes chamado de mini mundo, ou seja, ele é um recorte no mundo real.
     Porque já que meu banco de dados vai representar algo da realidade, não tem como representar tudo, eu tenho que
@@ -32,3 +32,9 @@
     E a grande vantagem é que ele facilita a comunicação entre todas as pessoas, desde os analistas, as pessoas que vão fazer as entrevistas
     ali com usuários para entender como os bancos vão ser estruturados, até realmente os desenvolvedores, então todo mundo olha pra aquele
     diagrama e de forma visual consegue entender como o banco vai se comportar, como os relacionamentos acontecerão.
+
+# Entidades:
+    Entidade é um objeto único no mundo real, na verdade, ela pode ser tanto um objeto, uma coisa, quanto uma pessoa.
+    Clientes de uma empresa podem ser tomado como uma entidade, carros que são vendidos em uma concessionária, em uma loja, podem ser tomados
+    como uma entidade também, na verdade, o produto que alguma loja vende ou que alguma empresa fabrica pode ser tomado como uma entidade,
+    departamento de uma empresa, como, por exemplo, o departamento de vendas, pode ser tomado como uma entidade também.
