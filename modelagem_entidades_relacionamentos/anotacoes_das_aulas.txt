@@ -41,4 +41,8 @@
 
 # Entidade forte / fraca:
     É aquela entidade que existe independentemente de outra entidade, já a entidade fraca depende da existência da outra.
-    
+
+# Tipos de relacionamentos:
+    Quando há duas entidades sendo relacionadas, temos o grau do relacionamento que é o relacionamento binário.
+    E se eu tivesse três entidades relacionando aqui, seria um relacionamento ternário.
+    Quando temos 4 entidades ou mais, chamamos de relacionamento n-ário.
