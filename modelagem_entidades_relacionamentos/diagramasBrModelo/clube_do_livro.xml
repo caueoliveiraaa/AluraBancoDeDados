@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<DIAGRAMA ID="1" TIPO="tpConceitual" UniversalUnicID="6931-5A-ADE5-91-9617-9D-EB">
+<DIAGRAMA ID="1" TIPO="tpConceitual" UniversalUnicID="84B2-15-5A8E-66-D2F6-A4-4">
 <InfoDiagrama ID="1">
 <Versao Valor="3.2.0"/>
 <Autores/>
@@ -14,9 +14,79 @@
 <Realce Valor="false"/>
 </InfoDiagrama>
 <Entidade ID="4">
-<Bounds Height="58" Left="31" Top="36" Width="120"/>
+<Bounds Height="58" Left="199" Top="228" Width="120"/>
 <DisablePainted Valor="false"/>
 <Texto>Clientes</Texto>
+<Observacao/>
+<Dicionario/>
+<Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+<Ancorado Valor="false"/>
+<AtributosOcultos Valor=""/>
+</Entidade>
+<Entidade ID="6">
+<Bounds Height="58" Left="439" Top="227" Width="120"/>
+<DisablePainted Valor="false"/>
+<Texto>Livros</Texto>
+<Observacao/>
+<Dicionario/>
+<Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+<Ancorado Valor="false"/>
+<AtributosOcultos Valor=""/>
+</Entidade>
+<Entidade ID="15">
+<Bounds Height="58" Left="434" Top="402" Width="120"/>
+<DisablePainted Valor="false"/>
+<Texto>Editoras</Texto>
+<Observacao/>
+<Dicionario/>
+<Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+<Ancorado Valor="false"/>
+<AtributosOcultos Valor=""/>
+</Entidade>
+<Entidade ID="19">
+<Bounds Height="58" Left="679" Top="227" Width="120"/>
+<DisablePainted Valor="false"/>
+<Texto>Estoque</Texto>
+<Observacao/>
+<Dicionario/>
+<Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+<Ancorado Valor="false"/>
+<AtributosOcultos Valor=""/>
+</Entidade>
+<Entidade ID="22">
+<Bounds Height="58" Left="438" Top="72" Width="120"/>
+<DisablePainted Valor="false"/>
+<Texto>Pedido</Texto>
+<Observacao/>
+<Dicionario/>
+<Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+<Ancorado Valor="false"/>
+<AtributosOcultos Valor=""/>
+</Entidade>
+<Entidade ID="27">
+<Bounds Height="69" Left="434" Top="222" Width="131"/>
+<DisablePainted Valor="false"/>
+<Texto/>
+<Observacao/>
+<Dicionario/>
+<Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+<Ancorado Valor="false"/>
+<AtributosOcultos Valor=""/>
+</Entidade>
+<Entidade ID="30">
+<Bounds Height="68" Left="432" Top="68" Width="134"/>
+<DisablePainted Valor="false"/>
+<Texto/>
+<Observacao/>
+<Dicionario/>
+<Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+<Ancorado Valor="false"/>
+<AtributosOcultos Valor=""/>
+</Entidade>
+<Entidade ID="33">
+<Bounds Height="68" Left="674" Top="222" Width="131"/>
+<DisablePainted Valor="false"/>
+<Texto/>
 <Observacao/>
 <Dicionario/>
 <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
