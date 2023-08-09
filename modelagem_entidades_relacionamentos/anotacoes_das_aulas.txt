@@ -40,9 +40,9 @@
     departamento de uma empresa, como, por exemplo, o departamento de vendas, pode ser tomado como uma entidade também.
 
 # Entidade forte / fraca:
-    É aquela entidade que existe independentemente de outra entidade, já a entidade fraca depende da existência da outra.
+    Entidade forte é aquela entidade que existe independentemente de outra entidade, já a entidade fraca depende da existência da outra.
 
 # Tipos de relacionamentos:
     Quando há duas entidades sendo relacionadas, temos o grau do relacionamento que é o relacionamento binário.
-    E se eu tivesse três entidades relacionando aqui, seria um relacionamento ternário.
+    E se eu tivesse três entidades relacionando, seria um relacionamento ternário.
     Quando temos 4 entidades ou mais, chamamos de relacionamento n-ário.
