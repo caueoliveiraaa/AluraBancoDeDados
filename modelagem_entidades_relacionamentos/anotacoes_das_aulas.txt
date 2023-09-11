@@ -13,7 +13,7 @@
     a linguagem SQL, utilizada para trabalhar com banco de dados relacionais.
 
 # Mini mundo:
-    Então mini mundo, podemos trazer uma definição de banco de dados aqui que, na verdade, o banco de dados representa
+    O mini mundo, podemos trazer uma definição de banco de dados aqui que, na verdade, o banco de dados representa
     aspectos do mundo real, às vezes chamado de mini mundo, ou seja, ele é um recorte no mundo real.
     Porque já que meu banco de dados vai representar algo da realidade, não tem como representar tudo, eu tenho que
     escolher o que vai apresentar, fazer um recorte, e daí sim colocar no nosso banco.
@@ -46,3 +46,9 @@
     Quando há duas entidades sendo relacionadas, temos o grau do relacionamento que é o relacionamento binário.
     E se eu tivesse três entidades relacionando, seria um relacionamento ternário.
     Quando temos 4 entidades ou mais, chamamos de relacionamento n-ário.
+
+# Cardinalidade (refere-se à relação entre as entidades, indicando quantos registros de uma tabela estão associados a quantos registros de outra tabela):
+    (Cardinalidade mínima) 1 para (Cardinalidade máxima) 1 = Relação um para um, onde cada registro de uma tabela está associado a um único registro em outra tabela.
+    (Cardinalidade mínima) 0 para (Cardinalidade máxima) 1 = Relação opcional um para um, onde cada registro de uma tabela pode estar associado a no máximo um registro em outra tabela.
+    (Cardinalidade mínima) 1 para (Cardinalidade máxima) N = Relação um para muitos, onde cada registro de uma tabela está associado a um ou mais registros em outra tabela.
+    (Cardinalidade mínima) 0 para (Cardinalidade máxima) N = Relação opcional um para muitos, onde cada registro de uma tabela pode estar associado a zero ou mais registros em outra tabela.
