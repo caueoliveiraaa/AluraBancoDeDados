@@ -52,3 +52,4 @@
     (Cardinalidade mínima) 0 para (Cardinalidade máxima) 1 = Relação opcional um para um, onde cada registro de uma tabela pode estar associado a no máximo um registro em outra tabela.
     (Cardinalidade mínima) 1 para (Cardinalidade máxima) N = Relação um para muitos, onde cada registro de uma tabela está associado a um ou mais registros em outra tabela.
     (Cardinalidade mínima) 0 para (Cardinalidade máxima) N = Relação opcional um para muitos, onde cada registro de uma tabela pode estar associado a zero ou mais registros em outra tabela.
+
