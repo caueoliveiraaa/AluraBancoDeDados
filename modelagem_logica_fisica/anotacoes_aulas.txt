@@ -1,0 +1,20 @@
+# Modelos de dados:
+    - Modelos de dados conceituais: esses modelos, algumas vezes chamados modelos de domínio,
+      são tipicamente usados para explorar conceitos do domínio com os envolvidos no projeto.
+      Em equipes ágeis, modelos conceituais de alto nível são normalmente criados como parte
+      do esforço inicial do entendimento dos requisitos do sistema, pois eles são usados para
+      explorar as estruturas e conceitos de negócio estáticos de alto nível. Em equipes tradicionais
+      (não ágeis), modelos de dados conceituais são normalmente criados como precursores aos modelos
+      lógicos de dados (MLD) ou suas alternativas.
+
+    - Modelos Lógico de Dados (MLDs): MLDs são usados para explorar os conceitos do domínio e seus
+      relacionados. Isso pode ser feito para o escopo de um simples projeto ou para uma empresa
+      inteira. MLDs descrevem os tipos de entidades lógicas, tipicamente referenciadas simplesmente
+      como tipos de entidades, os atributos de dados que descrevem essas entidades e os relacionamentos
+      entre as entidades. MLDs são raramente usados em projetos ágeis apesar de normalmente estarem
+      presentes em projetos tradicionais (onde eles raramente adicionam muito valor na prática).
+    
+    - Modelos Físicos de Dados (MFDs): MFDs são usados para projetar o esquema interno de um banco
+      de dados, descrevendo as tabelas de dados, as colunas de dados das tabelas e o relacionamento
+      entre as tabelas. MFDs normalmente são bastante úteis em projetos ágeis e tradicionais.
+    
