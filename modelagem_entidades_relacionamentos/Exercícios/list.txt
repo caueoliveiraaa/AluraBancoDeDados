@@ -1,0 +1,45 @@
+1. Desenvolva um mini mundo para um sistema de biblioteca que inclua entidades como Livro, Usuário e Emprestimo.
+
+2. Crie um modelo de entidade e relacionamento para um sistema de gerenciamento de pedidos online, incluindo entidades 
+como Pedido, Cliente e Produto.
+
+3. Projete um DER para um sistema de gerenciamento de eventos que inclua entidades como Evento, Organizador e Participante.
+
+4. Desenhe um modelo ER para um sistema de gerenciamento de escolas que inclua entidades como Aluno, Professor e Turma.
+
+5. Elabore um mini mundo para um sistema de gerenciamento de vendas que inclua entidades como Venda, Produto e Cliente.
+
+6. Crie um modelo de entidade e relacionamento para um sistema de gerenciamento de funcionários de uma empresa,
+incluindo entidades como Funcionário, Departamento e Cargo.
+
+7. Desenvolva um DER para um sistema de reserva de hotéis que inclua entidades como Hotel, Cliente e Reserva.
+
+8. Projete um modelo ER para um sistema de gerenciamento de músicas que inclua entidades como Artista, Álbum e Música.
+
+9. Desenhe um mini mundo para um sistema de gerenciamento de restaurantes que inclua entidades como Cliente, Pedido
+e Item de Menu.
+
+10. Crie um modelo de entidade e relacionamento para um sistema de gerenciamento de filmes que inclua entidades como
+Filme, Ator e Diretor.
+
+11. Elabore um DER para um sistema de gerenciamento de tarefas que inclua entidades como Tarefa, Responsável e Projeto.
+
+12. Desenvolva um mini mundo para um sistema de gerenciamento de academia que inclua entidades como Cliente, Instrutor e Aula.
+
+13. Crie um modelo de entidade e relacionamento para um sistema de gerenciamento de carros que inclua entidades como Carro,
+Proprietário e Revendedor.
+
+14. Projete um DER para um sistema de gerenciamento de viagens que inclua entidades como Viagem, Passageiro e Destino.
+
+15. Desenhe um modelo ER para um sistema de gerenciamento de redes sociais que inclua entidades como Usuário, Publicação e Comentário.
+
+16. Elabore um mini mundo para um sistema de gerenciamento de contas bancárias que inclua entidades como Conta, Cliente e Transação.
+
+17. Crie um modelo de entidade e relacionamento para um sistema de gerenciamento de imóveis que inclua entidades como Propriedade,
+Corretor e Cliente.
+
+18. Desenvolva um DER para um sistema de gerenciamento de loja online que inclua entidades como Produto, Pedido e Cliente.
+
+19. Projete um modelo ER para um sistema de gerenciamento de projetos de software que inclua entidades como Projeto, Desenvolvedor e Tarefa.
+
+20. Desenhe um mini mundo para um sistema de gerenciamento de serviços de entrega que inclua entidades como Entregador, Pedido e Destino.
